@@ -24,6 +24,19 @@ Our technologies are being applied to:
 - ♻️ **ESG analytics & environmental modeling**
 - 🔗 **Web3 trust & verification layers**
 
+To use our repo, kingly follow the reference below:
+
+We name the projects in this format: Ond-Category-Industries-Feature-TechStack.
+
+*NOTE: For ESG Projects, Industries and TechStack will not be included cause of prioritites.
+
+Category includes:
+- IE=Industrial Examples,
+- IS=Industrial Solutions,
+- IP=Industrial Projects
+
+Industries: like manufaturing(Mfg), gerneral industries(Ind), etc.
+
 ---
 
 ## 🏗️ System Architecture

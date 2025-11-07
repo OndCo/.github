@@ -4,8 +4,8 @@
 > **Building the intelligence layer for cross-domain, uncertainty-resilient AI systems.**  
 > Visit us 👉 [**osuite.ai**](https://osuite.ai)
 
-# OSuite by Ond & Co  |  An NDIM Group Product
-**Omnind Inc.** ®  — Stock Ticker: NDIM  |  Domain: [nd.im](https://nd.im)
+# OSuite by Ond & Co®  |  An NDIM Group Product by Omnind Inc.
+**Omnind Inc.**  — Stock Ticker: NDIM  |  Domain: [nd.im](https://nd.im)
 
 Ond & Co is the technical brand and subsidiary of Omnind Inc., developing the Trust Layer for AI & Web3.  
 All Ond products are part of the NDIM Group ecosystem.
